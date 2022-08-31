@@ -1,4 +1,2 @@
 #!/bin/bash
-# prints the absolute path name of the current working directory.
-
-alias 0-current_working_directory='readlink -f file.txt'
+echo PWD
