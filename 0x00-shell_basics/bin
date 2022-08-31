@@ -1,2 +1,2 @@
-#!/bin/bash
-echo PWD
+#!bin/bash
+alias 0-current_working_directory='PWD'
