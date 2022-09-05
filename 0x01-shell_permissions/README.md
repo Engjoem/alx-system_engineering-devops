@@ -1,1 +1,1 @@
-Read me has been added
+Readme has been added
