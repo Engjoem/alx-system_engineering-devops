@@ -1,1 +1,1 @@
-Press Enter
+Prints hello world
